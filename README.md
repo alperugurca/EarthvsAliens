@@ -4,8 +4,7 @@ A sci-fi themed idle strategy and war simulation. Manage Earth's economy and arm
 
 ## Links
 
-* [Play Earth vs Aliens on itch.io](https://alperugurcan.itch.io/earthvsaliens)
-* [Watch the gameplay video on YouTube](https://www.youtube.com/watch?v=V1DQ_GEcWIQ)
+- [Play Earth vs Aliens on itch.io](https://alperugurcan.itch.io/earthvsaliens)
+- [Watch the gameplay video on YouTube](https://youtu.be/V1DQ_GEcWIQ)
 
-[!\[Earth vs Aliens gameplay video](https://img.youtube.com/vi/V1DQ_GEcWIQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=V1DQ\_GEcWIQ)
-
+[![Earth vs Aliens gameplay video](https://img.youtube.com/vi/V1DQ_GEcWIQ/hqdefault.jpg)](https://youtu.be/V1DQ_GEcWIQ)
