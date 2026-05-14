@@ -14,4 +14,5 @@ Click the image below to watch the gameplay video on YouTube.
 
 ## Links
 
+- [Latest Release](https://github.com/alperugurca/EarthvsAliens/releases/latest)
 - [Play Earth vs Aliens on itch.io](https://alperugurcan.itch.io/earthvsaliens)
