@@ -2,6 +2,8 @@
 
 A sci-fi themed idle strategy and war simulation. Manage Earth's economy and army to fight against alien factions.
 
+##Play Now
+
 [![Play Now](https://img.shields.io/badge/Play%20Now-Game%20Page-blue?style=for-the-badge)](https://alperugurca.github.io/EarthvsAliens/web)
 
 ## Gameplay Video
