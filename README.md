@@ -16,7 +16,7 @@ Click the image below to watch the gameplay video on YouTube.
 
 - [Windows Latest Release](https://github.com/alperugurca/EarthvsAliens/releases/latest)
 - [Windows](https://github.com/alperugurca/EarthvsAliens/blob/main/windows/Earth-vs-Aliens-Windows.7z)
-- [Web](https://github.com/alperugurca/EarthvsAliens/blob/main/web)
+- [Web](https://github.com/alperugurca/EarthvsAliens/tree/main/web)
 - [Play Earth vs Aliens on itch.io](https://alperugurcan.itch.io/earthvsaliens)
 - [Play Earth vs Aliens on gamejolt.com](https://gamejolt.com/games/earthvsaliens/1070161)
 - [Play Earth vs Aliens on gx.games](https://gx.games/games/o3tink/earth-vs-aliens)
