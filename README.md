@@ -2,7 +2,7 @@
 
 A sci-fi themed idle strategy and war simulation. Manage Earth's economy and army to fight against alien factions.
 
-##Play Now
+## Play Now
 
 [![Play Now](https://img.shields.io/badge/Play%20Now-Game%20Page-blue?style=for-the-badge)](https://alperugurca.github.io/EarthvsAliens/web)
 
@@ -18,7 +18,6 @@ Click the image below to watch the gameplay video on YouTube.
 
 ## Links
 
-- 
 - [Windows Latest Release](https://github.com/alperugurca/EarthvsAliens/releases/latest)
 - [Windows](https://github.com/alperugurca/EarthvsAliens/blob/main/windows/Earth-vs-Aliens-Windows.7z)
 - [Web](https://github.com/alperugurca/EarthvsAliens/tree/main/web)
