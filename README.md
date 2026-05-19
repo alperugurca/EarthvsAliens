@@ -19,3 +19,4 @@ Click the image below to watch the gameplay video on YouTube.
 - [Play Earth vs Aliens on itch.io](https://alperugurcan.itch.io/earthvsaliens)
 - [Play Earth vs Aliens on gamejolt.com](https://gamejolt.com/games/earthvsaliens/1070161)
 - [Play Earth vs Aliens on gx.games](https://gx.games/games/o3tink/earth-vs-aliens)
+- [Play Earth vs Aliens on indiedb.com](https://www.indiedb.com/games/earth-vs-aliens)
